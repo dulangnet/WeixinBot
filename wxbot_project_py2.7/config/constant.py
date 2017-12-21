@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # coding: utf-8
 import time
 
@@ -210,6 +210,6 @@ class Constant(object):
     ]
     BOT_ZHIHU_URL_LATEST = 'http://news-at.zhihu.com/api/4/news/latest'
     BOT_ZHIHU_URL_DAILY = 'http://daily.zhihu.com/story/'
-    BOT_TULING_API_KEY = '55e7f30895a0a10535984bae5ad294d1'
+    BOT_TULING_API_KEY = 'e71720227d93420182250bf54a431655'
     BOT_TULING_API_URL = 'http://www.tuling123.com/openapi/api?key=%s&info=%s&userid=%s'
     BOT_TULING_BOT_REPLY = u'麻烦说的清楚一点，我听不懂你在说什么'
